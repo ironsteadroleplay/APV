@@ -1,17 +1,17 @@
-# Wetboek Springbank
+# Wetboek Ironstead
 
 ## Algemene Bepalingen
 
 ### A1 - Toepassing
 
-1. Het wetboek van Springbank is van toepassing op het gehele grondgebied van de stad Springbank.
+1. Het wetboek van Ironstead is van toepassing op het gehele grondgebied van de stad Ironstead.
 2. Aanvullend op alle beschreven gevallen in dit wetboek is het Nederlands recht van toepassing.
 
 ### A2 - Geldigheid
 
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen Springbank op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Springbank niet van toepassing.
+3. Minderjarigen worden binnen Ironstead op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Ironstead niet van toepassing.
 
 ### A3 - Verjaring van het strafbaar feit
 
