@@ -1,9 +1,6 @@
 # Eilandregelgeving
 
-De volgende regelgeving is alleen van toepassing op het eiland van Springbank Roleplay. Alle wetten opgenomen in het wetboek zijn ook van toepassing op het eiland maar er is geen handhaving van deze wetten.
-LET OP: het verlengde land hoort hier niet bij (Rexwood). Die valt onder het gewone APV! 
-
-## Aanvullende regelgeving eiland
+De volgende regelgeving is alleen van toepassing op het eiland van Ironstead Roleplay. Alle wetten opgenomen in het wetboek zijn ook van toepassing op het eiland maar er is geen handhaving van deze wetten.
 
 
 ### Artikel 1 - Jurisdictie
