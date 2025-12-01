@@ -4,4 +4,5 @@ In de volgende douanegebieden mag er preventief gefouillerd worden op personen, 
 
 ## Kaartweergave
 
-![Kaart]([douanegebieden (1)](https://github.com/user-attachments/assets/bf2a46c6-0953-44cd-8c18-35975b9a88ca)
+![Kaart]()
+![douanegebieden (1)](https://github.com/user-attachments/assets/a92867e9-7c9c-4568-a965-3535899dd577)
