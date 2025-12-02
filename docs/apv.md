@@ -1,20 +1,12 @@
-# Algemene Plaatselijke Verordening van Springbank Roleplay 
-**In het Algemene Plaatselijke Verordering van Springbank Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Springbank opgenomen. Bij het intrekken binnen Springbank gaat u automatisch akkoord met deze wet- en regelgeving.**
+# Algemene Plaatselijke Verordening van Ironstead Roleplay 
+**In het Algemene Plaatselijke Verordering van Ironstead Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Springbank opgenomen. Bij het intrekken binnen Springbank gaat u automatisch akkoord met deze wet- en regelgeving.**
 ## Strafbepaling
-1. De straffen zijn verdeeld in de volgende categoriëen. 
-    - **Categorie 1:** een waarschuwing
-    - **Categorie 2:** een ban van 1 dag + 20 uur taakstraf
-    - **Categorie 3:** een ban 2 dagen + 25 uur taakstraf
-    - **Categorie 4:** een ban 3 dagen + 30 uur taakstraf
-    - **Categorie 5:** een ban 1 week + 50 uur taakstraf
-    - **Categorie 6:** een ban 1 maand
-    - **Categorie 7:** permanente ban
-    - **Categorie 8:** account wipe 
-2. Straffen kunnen preventief opgelegd worden om nader onderzoek te doen. 
-3. Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen.
-4. Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen. 
-5. Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een permanente verbanning van Springbank. 
-6. Wanneer iets niet in het APV staat, zullen meerdere staff-leden, in overleg, zich over de situatie buigen waaruit een actie en/of beoordeling zal voortvloeien. Het kan dus voorkomen dat iets wat hier niet specifiek in staat verwezen, alsnog een andere conclusie of aanpak krijgt.
+
+1. Straffen kunnen preventief opgelegd worden om nader onderzoek te doen. 
+2. Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen.
+3. Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen. 
+4. Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een permanente verbanning van Springbank. 
+5. Wanneer iets niet in het APV staat, zullen meerdere staff-leden, in overleg, zich over de situatie buigen waaruit een actie en/of beoordeling zal voortvloeien. Het kan dus voorkomen dat iets wat hier niet specifiek in staat verwezen, alsnog een andere conclusie of aanpak krijgt.
 
 *De categorieeën zijn een inschatting van de straf die bij een bepaald artikel hoort. Deze straf kan altijd aangepast worden per situatie en persoon.*
 
@@ -48,7 +40,7 @@
 
 ### Artikel 2 - Cheats
 **Het is niet toegestaan om gebruik te maken van software/hulpmiddelen (cheats ofwel hacks) van derde partijen om profijt te krijgen in het spel.** 
-*Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt aangevraagd door een lid van het AC-team. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen. Indien je geen toestemming geeft, is er een kans dat we je preventief permanent bannen.*
+*Ironstead Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt aangevraagd door een lid van het AC-team. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen. Indien je geen toestemming geeft, is er een kans dat we je preventief permanent bannen.*
 > Straf ⇨ Categorie 7
 
 ### Artikel 3 - Bugs en exploits
@@ -68,7 +60,7 @@ Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken
 > Straf ⇨ Categorie 2
 
 ### Artikel 5 - Meta-gaming
-Het is niet toegestaan om informatie te gebruiken die is verkregen buiten het spel om, of om in call te zitten in de breedste zin wanneer je in Springbank bent.
+Het is niet toegestaan om informatie te gebruiken die is verkregen buiten het spel om, of om in call te zitten in de breedste zin wanneer je in Ironstead bent.
 
 Bijvoorbeeld: een bericht op Discord sturen waar je bent. Ook is het niet toegestaan een eigen server te hebben voor je bedrijf of gang met andere burgers erin, tenzij je toestemming hebt van management. 
 > Straf ⇨ Categorie 4
@@ -89,9 +81,9 @@ Hier valt o.a. het volgende onder:
 Dit betekent dus dat er een roleplay scenario gaande moet zijn tussen jou en de persoon EN die persoon een gevaar voor jou moet zijn om iemand te mogen doden. 
 
 *Voorbeelden (maar niet beperkt tot)*
-*Tyeisha en Hoop rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ze geschoten en Tyeisha gaat dood. Dit is RDM: zij zijn geen gevaar en ze zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt.*
+*marco en ries rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ze geschoten en Tyeisha gaat dood. Dit is RDM: zij zijn geen gevaar en ze zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt.*
 
-*Tyeisha en Hoop zijn in dienst als politie. Hoop is benen geschoten en zit op de grond, zonder wapen. Tyeisha begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten Tyeisha en Hoop dood. Dit is RDM, want Hoop is geen gevaar. (ZIE FAILRP, Hoop mag in dit geval niet opstaan en meedoen met het scenario, zij heeft medische zorg nodig.) Dit geldt niet in actieve vuurgevechten. Indien je meteen gefinished wordt, is dit voorbeeld niet van toepassing!*
+*marco en ries zijn in dienst als politie. Hoop is benen geschoten en zit op de grond, zonder wapen. marco begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten marco en ries dood. Dit is RDM, want Hoop is geen gevaar. (ZIE FAILRP, Hoop mag in dit geval niet opstaan en meedoen met het scenario, zij heeft medische zorg nodig.) Dit geldt niet in actieve vuurgevechten. Indien je meteen gefinished wordt, is dit voorbeeld niet van toepassing!*
 
 *Tyeisha en Hoop staan op de pluk. Lucifer komt naar ze toe en noemt ons kutwijven. Tyeisha en Hoop slaan hem dood. Dit is RDM; dit is geen reden om iemand te doden.*
 
@@ -114,7 +106,7 @@ Voorbeelden van gedetailleerde informatie zijn, maar niet beperkt tot:
 **Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt.**
 *Voorbeelden van NVOL zijn, maar niet beperkt tot:*
 
-* Indien er een vuurwapen op je gericht staat in de shouting voice range en er tegen je gepraat wordt, wordt er verwacht dat je blijft staan en mee werkt.
+* Indien er een vuurwapen op je gericht staat binnen de 10 meter, wordt er verwacht dat je blijft staan en mee werkt.
 * Je dropt je items direct bij handsup. Indien dit met een geldige reden (roleplay technisch) niet lukt, heb je 10 seconde om je spullen te droppen.
 * Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door.
 * Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Dit geldt niet wanneer je in een voertuig met gesloten ramen en deuren zit. Je mag wegrennen van een tazer, tenzij je al een keer getazerd bent.
@@ -146,14 +138,14 @@ Het is tijdens het spelen ten allen tijden verplicht om een werkende microfoon t
 > Straf ⇨ Categorie 1
 
 ### Artikel 13 - Talen
-Er wordt verwacht dat je de Nederlands of Engelse taal beheerst binnen Springbank Roleplay.
+Er wordt verwacht dat je de Nederlands of Engelse taal beheerst binnen Ironstead Roleplay.
 1. Het is niet toegestaan om andere talen dan Nederlands of Engels op een provocerende manier te gebruiken in een roleplay scenario.
 2. Tijdens staffzaken is het in de basis zaak dat er ten allen tijden Nederlands wordt gesproken.
 
 > Straf ⇨ Categorie 1
 
 ### Artikel 14 - Belediging
-Het is niet toegestaan om in game of in de Springbank Discords aanstootgevende teksten te plaatsen of uit te spreken op welke mogelijke manier dan ook. Bijvoorbeeld hedendaagse ziektes, seksuele opmerkingen, racisme, toxic gedrag of andere ongepaste opmerkingen. 
+Het is niet toegestaan om in game of in de Ironstead Discords aanstootgevende teksten te plaatsen of uit te spreken op welke mogelijke manier dan ook. Bijvoorbeeld hedendaagse ziektes, seksuele opmerkingen, racisme, toxic gedrag of andere ongepaste opmerkingen. 
 Dit is ook van toepassing op de volgende punten: 
 	
 * Naam van jouw steam account
@@ -179,7 +171,7 @@ LET OP: Pitten is iets anders dan beuken.
 > Straf ⇨ Categorie 2
 
 ### Artikel 16 - Reporting
-De in-game functie om spelers te rapporteren en bugs of vragen in te dienen (/report) is alleen bedoeld voor gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen. Lees onze Report regels [hier](https://discord.com/channels/1031924291438137365/1088105131016454284/1269338163998883890)
+De in-game functie om spelers te rapporteren en bugs of vragen in te dienen (/report) is alleen bedoeld voor gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen. 
 
 * Het is niet toegestaan te ‘report spammen’, je mag dus niet meerdere reports binnen 5 minuten maken.
 
@@ -283,11 +275,11 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 > Straf ⇨ Categorie 3
 
 ### Artikel  25 - Overval Regels
-1. Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval.
+1. Je krijgt per hostage 2 eisen. Er zit een max van 6 eisen bij een overval.
 2. Het is niet toegestaan om hostages te pakken op de volgende plekken:
     * In de kledingwinkel in het kledingmenu;
     * Locaties waar werkzaamheden gestart en beëindigd worden;
-    * Officiële bedrijven binnen Springbank.
+    * Officiële bedrijven binnen Ironstead.
     * Het is ook niet toegestaan om iemand die AFK staat te dragen en als hostage mee te nemen.
 3. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. 
 4. Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groenlicht.
@@ -395,7 +387,7 @@ Verder:
 Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groepering naar overheid of andersom wilt wisselen, dan dien je 7 dagen te wachten vanaf het moment van ontslag tot aan je eerste startdag. Hier kan door management uitzondering op gemaakt worden. 
 
 ### Artikel 35 - Real life trading
-1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
+1. Het is nooit toegestaan om goederen in Ironstead (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
 2. Het is ook niet toegestaan donatievoertuigen te ruilen voor andere (donatie)spullen.
 3. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat. Dit geldt voor ALLE goederen. 
 4. Hieronder wordt ook het aanbieden of vragen naar verstaan.
