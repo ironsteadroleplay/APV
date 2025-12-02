@@ -1,11 +1,11 @@
 # Algemene Plaatselijke Verordening van Ironstead Roleplay 
-**In het Algemene Plaatselijke Verordering van Ironstead Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Springbank opgenomen. Bij het intrekken binnen Springbank gaat u automatisch akkoord met deze wet- en regelgeving.**
+**In het Algemene Plaatselijke Verordering van Ironstead Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Ironstead opgenomen. Bij het intrekken binnen Ironstead gaat u automatisch akkoord met deze wet- en regelgeving.**
 ## Strafbepaling
 
 1. Straffen kunnen preventief opgelegd worden om nader onderzoek te doen. 
 2. Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen.
 3. Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen. 
-4. Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een permanente verbanning van Springbank. 
+4. Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een permanente verbanning van Ironstead. 
 5. Wanneer iets niet in het APV staat, zullen meerdere staff-leden, in overleg, zich over de situatie buigen waaruit een actie en/of beoordeling zal voortvloeien. Het kan dus voorkomen dat iets wat hier niet specifiek in staat verwezen, alsnog een andere conclusie of aanpak krijgt.
 
 *De categorieeën zijn een inschatting van de straf die bij een bepaald artikel hoort. Deze straf kan altijd aangepast worden per situatie en persoon.*
